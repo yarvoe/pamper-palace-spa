@@ -1,0 +1,9 @@
+{
+  "name": "pamper-palace-spa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pamper Palace Spa website concept \u2014 AIDTECH Liberia",
+  "scripts": {
+    "start": "python3 -m http.server 8080"
+  }
+}
